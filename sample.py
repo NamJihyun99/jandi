@@ -17,3 +17,4 @@ XXX To do:
 # See also:
 #
 # HTTP Working Group                                        T. Berners-Lee
+# INTERNET-DRAFT                                            R. T. Fielding
