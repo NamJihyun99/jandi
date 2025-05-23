@@ -16,3 +16,4 @@ XXX To do:
 
 # See also:
 #
+# HTTP Working Group                                        T. Berners-Lee
