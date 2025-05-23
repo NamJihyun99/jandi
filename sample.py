@@ -4,3 +4,4 @@ print('Hello World!')
 Note: BaseHTTPRequestHandler doesn't implement any HTTP request; see
 SimpleHTTPRequestHandler for simple implementations of GET, HEAD and POST.
 
+It does, however, optionally implement HTTP/1.1 persistent connections.
