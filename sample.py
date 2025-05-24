@@ -20,3 +20,4 @@ XXX To do:
 # INTERNET-DRAFT                                            R. T. Fielding
 # <draft-ietf-http-v10-spec-00.txt>                     H. Frystyk Nielsen
 # Expires September 8, 1995                                  March 8, 1995
+#
