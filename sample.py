@@ -26,3 +26,4 @@ XXX To do:
 # and
 #
 # Network Working Group                                      R. Fielding
+# Request for Comments: 2616                                       et al
