@@ -28,3 +28,4 @@ XXX To do:
 # Network Working Group                                      R. Fielding
 # Request for Comments: 2616                                       et al
 # Obsoletes: 2068                                              June 1999
+# Category: Standards Track
