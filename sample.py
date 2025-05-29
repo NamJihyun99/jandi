@@ -30,3 +30,4 @@ XXX To do:
 # Obsoletes: 2068                                              June 1999
 # Category: Standards Track
 #
+# URL: http://www.faqs.org/rfcs/rfc2616.html
