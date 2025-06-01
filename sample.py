@@ -35,3 +35,4 @@ XXX To do:
 # Log files
 # ---------
 #
+# Here's a quote from the NCSA httpd docs about log file format.
