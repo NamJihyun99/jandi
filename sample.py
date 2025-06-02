@@ -38,3 +38,4 @@ XXX To do:
 # Here's a quote from the NCSA httpd docs about log file format.
 #
 # | The logfile format is as follows. Each line consists of:
+# |
