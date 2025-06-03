@@ -40,3 +40,4 @@ XXX To do:
 # | The logfile format is as follows. Each line consists of:
 # |
 # | host rfc931 authuser [DD/Mon/YYYY:hh:mm:ss] "request" ddd bbbb
+# |
