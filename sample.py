@@ -41,3 +41,4 @@ XXX To do:
 # |
 # | host rfc931 authuser [DD/Mon/YYYY:hh:mm:ss] "request" ddd bbbb
 # |
+# |        host: Either the DNS name or the IP number of the remote client
