@@ -44,3 +44,4 @@ XXX To do:
 # |        host: Either the DNS name or the IP number of the remote client
 # |        rfc931: Any information returned by identd for this person,
 # |                - otherwise.
+# |        authuser: If user sent a userid for authentication, the user name,
