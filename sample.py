@@ -46,3 +46,4 @@ XXX To do:
 # |                - otherwise.
 # |        authuser: If user sent a userid for authentication, the user name,
 # |                  - otherwise.
+# |        DD: Day
