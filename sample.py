@@ -45,3 +45,4 @@ XXX To do:
 # |        rfc931: Any information returned by identd for this person,
 # |                - otherwise.
 # |        authuser: If user sent a userid for authentication, the user name,
+# |                  - otherwise.
