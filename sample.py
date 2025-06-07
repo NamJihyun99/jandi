@@ -47,3 +47,4 @@ XXX To do:
 # |        authuser: If user sent a userid for authentication, the user name,
 # |                  - otherwise.
 # |        DD: Day
+# |        Mon: Month (calendar name)
