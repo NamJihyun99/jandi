@@ -48,3 +48,4 @@ XXX To do:
 # |                  - otherwise.
 # |        DD: Day
 # |        Mon: Month (calendar name)
+# |        YYYY: Year
