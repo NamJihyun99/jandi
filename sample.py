@@ -50,3 +50,4 @@ XXX To do:
 # |        Mon: Month (calendar name)
 # |        YYYY: Year
 # |        hh: hour (24-hour format, the machine's timezone)
+# |        mm: minutes
