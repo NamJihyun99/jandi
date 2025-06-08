@@ -49,3 +49,4 @@ XXX To do:
 # |        DD: Day
 # |        Mon: Month (calendar name)
 # |        YYYY: Year
+# |        hh: hour (24-hour format, the machine's timezone)
