@@ -51,3 +51,4 @@ XXX To do:
 # |        YYYY: Year
 # |        hh: hour (24-hour format, the machine's timezone)
 # |        mm: minutes
+# |        ss: seconds
