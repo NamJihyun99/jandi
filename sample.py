@@ -52,3 +52,4 @@ XXX To do:
 # |        hh: hour (24-hour format, the machine's timezone)
 # |        mm: minutes
 # |        ss: seconds
+# |        request: The first line of the HTTP request as sent by the client.
