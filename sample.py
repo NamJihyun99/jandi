@@ -54,3 +54,4 @@ XXX To do:
 # |        ss: seconds
 # |        request: The first line of the HTTP request as sent by the client.
 # |        ddd: the status code returned by the server, - if not available.
+# |        bbbb: the total number of bytes sent,
