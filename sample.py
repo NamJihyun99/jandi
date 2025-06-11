@@ -55,3 +55,4 @@ XXX To do:
 # |        request: The first line of the HTTP request as sent by the client.
 # |        ddd: the status code returned by the server, - if not available.
 # |        bbbb: the total number of bytes sent,
+# |              *not including the HTTP/1.0 header*, - if not available
