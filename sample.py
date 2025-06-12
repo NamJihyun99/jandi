@@ -57,3 +57,4 @@ XXX To do:
 # |        bbbb: the total number of bytes sent,
 # |              *not including the HTTP/1.0 header*, - if not available
 # |
+# | You can determine the name of the file accessed through request.
