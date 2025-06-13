@@ -59,3 +59,4 @@ XXX To do:
 # |
 # | You can determine the name of the file accessed through request.
 #
+# (Actually, the latter is only true if you know the server configuration
