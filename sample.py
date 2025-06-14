@@ -62,3 +62,4 @@ XXX To do:
 # (Actually, the latter is only true if you know the server configuration
 # at the time the request was made!)
 
+__version__ = "0.6"
