@@ -63,3 +63,4 @@ XXX To do:
 # at the time the request was made!)
 
 __version__ = "0.6"
+
