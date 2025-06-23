@@ -79,3 +79,4 @@ import itertools
 import mimetypes
 import os
 import posixpath
+import shutil
